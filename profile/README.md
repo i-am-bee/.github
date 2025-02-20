@@ -8,6 +8,8 @@
 
 <h1 align="center">BeeAI</h1>
 
+<h4 align="center">Powering the future of open-source AI agent development.</h3>
+
 📦 **Core repositories**
 - [BeeAI Framework](https://github.com/i-am-bee/beeai-framework) - Build production-grade AI agents ([Python](https://github.com/i-am-bee/beeai-framework/tree/main/python) + [Typescript](https://github.com/i-am-bee/beeai-framework/tree/main/typescript))
 
