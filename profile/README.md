@@ -1,14 +1,14 @@
-<p align="center">
+<p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="Bee_logo_white.svg">
-    <source media="(prefers-color-scheme: light)" srcset="Bee_logo_black.svg">
-    <img alt="BeeAI logo" height="90">
+    <source media="(prefers-color-scheme: dark)" srcset="BeeAI_lockup_white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="BeeAI_lockup_black.svg">
+    <img alt="BeeAI logo" height="70">
   </picture>
 </p>
 
-<h1 align="center">BeeAI</h1>
+<p>Powering the future of open-source AI agent development.</p>
 
-<h4 align="center">Powering the future of open-source AI agent development.</h3>
+---
 
 📦 **Core repositories**
 - [BeeAI Framework](https://github.com/i-am-bee/beeai-framework) - Build production-grade AI agents ([Python](https://github.com/i-am-bee/beeai-framework/tree/main/python) + [Typescript](https://github.com/i-am-bee/beeai-framework/tree/main/typescript))
