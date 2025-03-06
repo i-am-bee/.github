@@ -14,7 +14,7 @@
 - [BeeAI Framework](https://github.com/i-am-bee/beeai-framework) - Build production-grade AI agents ([Python](https://github.com/i-am-bee/beeai-framework/tree/main/python) + [Typescript](https://github.com/i-am-bee/beeai-framework/tree/main/typescript))
 
 🧪 **Experimental**
-- [BeeAI](https://github.com/i-am-bee/beeai) - Discover, run, and compose AI agents from any provider
+- [BeeAI](https://github.com/i-am-bee/beeai) - Discover, run, and compose AI agents from any framework
 
 🤝 **Community & support**
 - [Discord](https://discord.com/channels/1309202615556378705/1309202615556378709) - Join our Discord community to connect with others, ask questions, and get support
