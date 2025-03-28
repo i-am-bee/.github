@@ -6,18 +6,25 @@
   </picture>
 </p>
 
-<p>Powering the future of open-source AI agent development.</p>
+<h2 align="left">Powering the future of open-source AI agent development</h2>
 
 ---
 
-📦 **Core repositories**
-- [BeeAI](https://github.com/i-am-bee/beeai) - Discover, run, and compose AI agents from any framework
-- [BeeAI Framework](https://github.com/i-am-bee/beeai-framework) - Build production-grade AI agents ([Python](https://github.com/i-am-bee/beeai-framework/tree/main/python) + [Typescript](https://github.com/i-am-bee/beeai-framework/tree/main/typescript))
+The mission of **[BeeAI](https://beeai.dev/)** is building an open-source ecosystem that empowers developers to **discover, run, and compose AI agents** from any framework. We’re creating the infrastructure to make agents truly **interoperable**, regardless of their underlying implementation. 
 
-🤝 **Community & support**
-- [Discord](https://discord.com/channels/1309202615556378705/1309202615556378709) - Join our Discord community to connect with others, ask questions, and get support
-- [BlueSky](https://bsky.app/profile/beeaiagents.bsky.social) - Follow us on BlueSky for the latest updates, releases, and insights on building agents
-- [YouTube](https://www.youtube.com/@BeeAIAgents) - Subscribe to our YouTube channel for in-depth tutorials and feature walkthroughs
+## Why BeeAI
+
+The AI agent ecosystem is **fragmented**, with dozens of frameworks creating silos that limit interoperability. BeeAI changes this by:
+- 🔓 Eliminating vendor lock-in, letting you compose multi-agent workflows from different sources
+- ⚡ Speeding up development by using existing agents instead of starting from scratch
+- 🌍 Making it easier to share and discover community-built agents to solve common problems 
+
+## Core components
+
+- **[BeeAI platform](https://github.com/i-am-bee/beeai)** - The platform to easily discover, run, and compose AI agents from any framework.
+- **[BeeAI framework](https://github.com/i-am-bee/beeai-framework)** - The SDK for building production-grade AI agents in either Python or TypeScript.
+- **[Agent Communication Protocol (ACP)](https://docs.beeai.dev/acp/alpha/introduction)** - The standard for agent-to-agent communication, built for automation, collaboration, and UI integration.
 
 ---
+
 Developed with ❤️ by the BeeAI Team and contributors. Supported by IBM Research.
