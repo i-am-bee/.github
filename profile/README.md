@@ -8,6 +8,14 @@
 
 <h2 align="left">Powering the future of open-source AI agent development</h2>
 
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="BeeAI-ecosystem-diagram-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="BeeAI-ecosystem-diagram-light.png">
+    <img alt="BeeAI logo" height="700">
+  </picture>
+</p>
+
 ---
 
 The mission of **[BeeAI](https://beeai.dev/)** is building an open-source ecosystem that empowers developers to **discover, run, and compose AI agents** from any framework. We’re creating the infrastructure to make agents truly **interoperable**, regardless of their underlying implementation. 
