@@ -10,16 +10,16 @@
 
 <p align="center">
   <a href="https://github.com/i-am-bee/beeai-framework?tab=Apache-2.0-1-ov-file#readme">
-    <img src="https://img.shields.io/badge/License-Apache%202.0-EA7826?style=flat" alt="License">
+    <img src="https://img.shields.io/badge/Apache_2.0-License-EA7826?style=social" alt="License">
   </a>
   <a href="https://bsky.app/profile/beeaiagents.bsky.social">
-    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white" alt="Bluesky">
+    <img src="https://img.shields.io/badge/Follow_on_Bluesky-0285FF?style=social&logo=bluesky" alt="Bluesky">
   </a>
   <a href="https://discord.com/invite/NradeA6ZNF">
-    <img src="https://img.shields.io/discord/1309202615556378705?style=social&logo=discord&logoColor=black&label=Discord&labelColor=7289da&color=black" alt="Discord">
+    <img src="https://img.shields.io/discord/1309202615556378705?style=social&logo=discord&label=Join%20our%20Discord" alt="Discord">
   </a>
   <a href="https://github.com/i-am-bee/beeai">
-    <img src="https://img.shields.io/github/stars/I-am-bee/beeai" alt="GitHub Repo stars">
+    <img src="https://img.shields.io/github/stars/I-am-bee/beeai?style=social" alt="GitHub Repo stars">
   </a>
 </p>
 
