@@ -50,4 +50,4 @@ The AI agent ecosystem is **fragmented**, with dozens of frameworks creating sil
 
 ---
 
-Developed by contributors to the BeeAI project and is part of the Linux Foundation AI & Data initiative. The development follows open, collaborative, and community-driven practices.
+Developed by contributors to the BeeAI project, this initiative is part of the Linux Foundation AI & Data program. Its development follows open, collaborative, and community-driven practices.
