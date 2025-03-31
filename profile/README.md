@@ -8,23 +8,15 @@
 
 <h2 align="center">Powering the future of open-source AI agent development</h2>
 
-<p align="center">
-  <a href="https://github.com/i-am-bee/beeai-framework?tab=Apache-2.0-1-ov-file#readme">
-    <img src="https://img.shields.io/badge/Apache_2.0-License-EA7826?style=flat-square&logo=apache&logoColor=white" alt="License">
-  </a>
-  <a href="https://bsky.app/profile/beeaiagents.bsky.social">
-    <img src="https://img.shields.io/badge/Follow_on_Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky">
-  </a>
-  <a href="https://discord.com/invite/NradeA6ZNF">
-    <img src="https://img.shields.io/badge/Join_our_Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://github.com/i-am-bee/beeai">
-    <img src="https://img.shields.io/github/stars/I-am-bee/beeai?style=flat-square&logo=github&logoColor=white" alt="GitHub Stars">
-  </a>
-  <a href="https://lfaidata.foundation/projects/">
-    <img src="https://img.shields.io/badge/LF_AI_&_Data-0094ff?style=flat-square&logo=linuxfoundation&logoColor=white" alt="LF AI & Data">
-  </a>
-</p>
+<div align="center">
+
+[![Apache 2.0](https://img.shields.io/badge/Apache%202.0-License-EA7826?style=social&logo=apache)](https://github.com/i-am-bee/beeai-framework?tab=Apache-2.0-1-ov-file#readme)
+[![Follow on Bluesky](https://img.shields.io/badge/Follow%20on%20Bluesky-0285FF?style=social&logo=bluesky)](https://bsky.app/profile/beeaiagents.bsky.social)
+[![Join our Discord](https://img.shields.io/badge/Join%20our%20Discord-7289DA?style=social&logo=discord)](https://discord.com/invite/NradeA6ZNF)
+[![GitHub Stars](https://img.shields.io/github/stars/I-am-bee/beeai?style=social)](https://github.com/i-am-bee/beeai)
+[![LF AI & Data](https://img.shields.io/badge/LF%20AI%20%26%20Data-0094ff?style=social&logo=linuxfoundation)](https://lfaidata.foundation/projects/)
+
+</div>
 
 <p align="center">
   <picture>
