@@ -27,7 +27,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="BeeAI-ecosystem-diagram-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="BeeAI-ecosystem-diagram-light.png">
-    <img alt="BeeAI Ecosystem Diagram" height="700">
+    <img alt="BeeAI Ecosystem Diagram" width="100%">
   </picture>
 </p>
 
