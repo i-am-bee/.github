@@ -50,4 +50,4 @@ The AI agent ecosystem is **fragmented**, with dozens of frameworks creating sil
 
 ---
 
-Developed with ❤️ by the BeeAI Team and contributors. Supported by IBM Research.
+Developed by contributors to the BeeAI project and is part of the Linux Foundation AI & Data initiative. The development follows open, collaborative, and community-driven practices.
