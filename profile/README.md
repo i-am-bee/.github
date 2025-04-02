@@ -39,7 +39,7 @@ The AI agent ecosystem is **fragmented**, with dozens of frameworks creating sil
 ## Core components
 
 - **[BeeAI platform](https://github.com/i-am-bee/beeai)** - The platform to easily discover, run, and compose AI agents from any framework.
-- **[BeeAI framework](https://github.com/i-am-bee/beeai-framework)** - The SDK for building production-grade AI agents in either Python or TypeScript.
+- **[BeeAI framework](https://github.com/i-am-bee/beeai-framework)** - The framework for building production-grade AI agents in either Python or TypeScript.
 - **[Agent Communication Protocol (ACP)](https://docs.beeai.dev/acp/alpha/introduction)** - The standard for agent-to-agent communication, built for automation, collaboration, and UI integration.
 
 ---
