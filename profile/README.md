@@ -13,11 +13,13 @@
 📦 **Core repositories**
 - [BeeAI](https://github.com/i-am-bee/beeai) - Discover, run, and compose AI agents from any framework
 - [BeeAI Framework](https://github.com/i-am-bee/beeai-framework) - Build production-grade AI agents ([Python](https://github.com/i-am-bee/beeai-framework/tree/main/python) + [Typescript](https://github.com/i-am-bee/beeai-framework/tree/main/typescript))
+- [Agent Communication Protocol(ACP)](https://github.com/i-am-bee/ACP) - A standard interface for agent interoperatibility (_Alpha coming soon!_)
+
 
 🤝 **Community & support**
-- [Discord](https://discord.com/channels/1309202615556378705/1309202615556378709) - Join our Discord community to connect with others, ask questions, and get support
-- [BlueSky](https://bsky.app/profile/beeaiagents.bsky.social) - Follow us on BlueSky for the latest updates, releases, and insights on building agents
-- [YouTube](https://www.youtube.com/@BeeAIAgents) - Subscribe to our YouTube channel for in-depth tutorials and feature walkthroughs
+- [Discord](https://discord.com/channels/1309202615556378705/1309202615556378709) - Join our Discord community to connect, share, and get support
+- [BlueSky](https://bsky.app/profile/beeaiagents.bsky.social) - Follow us on BlueSky for updates and releases
+- [YouTube](https://www.youtube.com/@BeeAIAgents) - Subscribe to our  channel for tutorials and feature walkthroughs
 
 ---
-Developed with ❤️ by the BeeAI Team and contributors. Supported by IBM Research.
+Developed with ❤️ by the BeeAI Team and contributors; BeeAI is a series of Linux Foundation projects.
