@@ -5,8 +5,7 @@
     <img alt="BeeAI logo" height="70">
   </picture>
 </p>
-
-<h2 align="center">Powering the future of open-source AI agent development</h2>
+<h2 align="center">Control and agency without compromise</h2>
 
 <div align="center">
 
@@ -18,29 +17,56 @@
 </div>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="BeeAI-ecosystem-diagram-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="BeeAI-ecosystem-diagram-light.png">
-    <img alt="BeeAI Ecosystem Diagram" width="100%">
-  </picture>
+  <a href="https://beeai.dev/">Visit beeai.dev</a>
 </p>
 
 ---
 
-The mission of **[BeeAI](https://beeai.dev/)** is building an open-source ecosystem that empowers developers to **discover, run, and compose AI agents** from any framework. We’re creating the infrastructure to make agents truly **interoperable**, regardless of their underlying implementation. 
+**BeeAI** provides the tools and infrastructure to build reliable, intelligent AI agents with deterministic control. Our ecosystem combines a lightweight framework for building agents that enforce rules with a platform for testing, debugging, and deploying them.
 
-## Why BeeAI
+## beeai-framework
 
-The AI agent ecosystem is **fragmented**, with dozens of frameworks creating silos that limit interoperability. BeeAI changes this by:
-- 🔓 Eliminating vendor lock-in, letting you compose multi-agent workflows from different sources
-- ⚡ Speeding up development by using existing agents instead of starting from scratch
-- 🌍 Making it easier to share and discover community-built agents to solve common problems 
+Build reliable, intelligent agents with our lightweight framework that goes beyond prompting and enforces rules.
 
-## Core components
+[Framework Documentation →](https://framework.beeai.dev)
 
-- **[BeeAI platform](https://github.com/i-am-bee/beeai-platform)** - The platform to easily discover, run, and compose AI agents from any framework.
-- **[BeeAI framework](https://github.com/i-am-bee/beeai-framework)** - A production-grade framework for building AI agents in either Python or TypeScript.
-- **[Agent Communication Protocol (ACP)](https://github.com/i-am-bee/ACP)** - The standard for agent-to-agent communication, built for automation, collaboration, and UI integration.
+### Key Features
+- 🔀 Dynamic workflows - Use simple decorators to design multi-agent systems with advanced patterns like parallelism, retries, and replanning
+- ⚖️ Agents with constraints - Preserve your agent's reasoning abilities while enforcing deterministic rules instead of suggesting behavior
+- 📋 Declarative orchestration - Define complex agent systems in YAML for more predictable and maintainable orchestration
+- 📊 Pluggable observability - Integrate with your existing stack in minutes with native OpenTelemetry support for auditing and monitoring
+- 💻 Python and TypeScript support - Feature parity between languages lets teams build with the tools they already know and love
+- 🔌 MCP and A2A native - Build MCP-compatible components, equip agents with MCP tools, and interoperate with any MCP or A2A agent
+
+---
+
+## beeai-platform
+
+Test, debug, and share your agents in an interactive UI with out-of-the-box trajectory, citations, and more.
+
+[Platform Documentation →](https://docs.beeai.dev)
+
+### Key Features
+- ⚡ Instant agent UI - Generate a shareable front-end from your code in minutes. Focus on your agent's logic, not UI frameworks
+- ☁️ Effortless deployment - Go from container to production-ready. We handle database, storage, scaling, and RAG so you can focus on your agent
+- 🎮 Multi-provider playground - Test across OpenAI, Anthropic, Gemini, IBM watsonx, Ollama and more. Instantly compare performance and cost to find the optimal model
+- 🌐 Framework-agnostic - Run agents from LangChain, CrewAI, BeeAI and more on a single platform. Enable cross-framework collaboration without rewriting your code
+
+---
+
+## Getting Started
+
+### Building Agents
+
+Want to create your own AI agents? Start with the framework.
+
+[Framework Quickstart →](https://framework.beeai.dev/quickstart)
+
+### Running & Deploying Agents
+
+Want to test, debug, or deploy agents? Use the platform.
+
+[Platform Quickstart →](https://platform.beeai.dev/quickstart)
 
 ---
 
