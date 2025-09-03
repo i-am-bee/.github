@@ -22,7 +22,7 @@
 
 ---
 
-**BeeAI** provides the tools and infrastructure to build reliable, intelligent AI agents with deterministic control. Our ecosystem combines a lightweight framework for building agents that enforce rules with a platform for testing, debugging, and deploying them.
+**BeeAI** provides the tools and infrastructure to build reliable, intelligent AI agents with rule-guided reasoning. Our ecosystem combines a lightweight framework for building agents that enforce rules with a platform for testing, debugging, and deploying them.
 
 ## beeai-framework
 
