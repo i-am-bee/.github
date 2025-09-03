@@ -66,7 +66,7 @@ Want to create your own AI agents? Start with the framework.
 
 Want to test, debug, or deploy agents? Use the platform.
 
-[Platform Quickstart →](https://platform.beeai.dev/quickstart)
+[Platform Quickstart →](https://docs.beeai.dev/quickstart)
 
 ---
 
