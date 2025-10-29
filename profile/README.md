@@ -16,11 +16,9 @@
 
 </div>
 
-<p align="center">
+<h2 align="center">
   <a href="https://beeai.dev/">Visit beeai.dev</a>
-</p>
-
----
+</h2>
 
 ## Beeai Framework
 
