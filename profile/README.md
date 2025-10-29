@@ -5,7 +5,7 @@
     <img alt="BeeAI logo" height="70">
   </picture>
 </p>
-<h2 align="center">Control and agency without compromise</h2>
+<h2 align="center">A series of Linux Foundation projects advancing AI agents</h2>
 
 <div align="center">
 
@@ -22,9 +22,7 @@
 
 ---
 
-**BeeAI** provides the tools and infrastructure to build reliable, intelligent AI agents with rule-guided reasoning. Our ecosystem combines a lightweight framework for building agents that enforce rules with a platform for testing, debugging, and deploying them.
-
-## beeai-framework
+## Beeai Framework
 
 Build reliable, intelligent agents with our lightweight framework that goes beyond prompting and enforces rules.
 
@@ -40,17 +38,17 @@ Build reliable, intelligent agents with our lightweight framework that goes beyo
 
 ---
 
-## beeai-platform
+## Agent Stack
 
-Test, debug, and share your agents in an interactive UI with out-of-the-box trajectory, citations, and more.
+Deploy and share agents with open infrastructure, free from framework or vendor lock-in.
 
-[Platform Documentation →](https://docs.beeai.dev)
+[Agent Stack Documentation →](https://agentstack.beeai.dev)
 
 ### Key Features
 - ⚡ Instant agent UI - Generate a shareable front-end from your code in minutes. Focus on your agent's logic, not UI frameworks
 - ☁️ Effortless deployment - Go from container to production-ready. We handle database, storage, scaling, and RAG so you can focus on your agent
 - 🎮 Multi-provider playground - Test across OpenAI, Anthropic, Gemini, IBM watsonx, Ollama and more. Instantly compare performance and cost to find the optimal model
-- 🌐 Framework-agnostic - Run agents from LangChain, CrewAI, BeeAI and more on a single platform. Enable cross-framework collaboration without rewriting your code
+- 🌐 Framework-agnostic - Run agents from LangChain, CrewAI, and more on a single platform. Enable cross-framework collaboration without rewriting your code
 
 ---
 
@@ -62,11 +60,11 @@ Want to create your own AI agents? Start with the framework.
 
 [Framework Quickstart →](https://framework.beeai.dev/quickstart)
 
-### Running & Deploying Agents
+### Deploying & Sharing Agents
 
-Want to test, debug, or deploy agents? Use the platform.
+What to deploy and share your AI agents with others? Check out Agent Stack.
 
-[Platform Quickstart →](https://docs.beeai.dev/quickstart)
+[Agent Stack Quickstart →](https://agentstack.beeai.dev/quickstart)
 
 ---
 
